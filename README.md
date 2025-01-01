@@ -1,0 +1,2 @@
+# ElderlyCareDataAnalysis
+简单的实现养老项目的数据决策分析和实时监测部分功能，这只是一个前端的演示
